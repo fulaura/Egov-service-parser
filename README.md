@@ -7,6 +7,7 @@
 This project parses all the elements from **Egov.kz** and stores all in csv. After it sends get request to collected links from the egov's services page in order to parse them too to collect additional information(sirvice info).
 
 There is also implemented __simple searching mechanism__ that operates on and returns a **DataFrame**.
+
 **csv** consists of 4 columns. Category - Service - Link - Info
 
 ------------------------------------------------------------------
